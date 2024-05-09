@@ -1,5 +1,4 @@
 {
-$ curl -vL square.github.io/okhttp 2>&1 | fgrep -i access-control-allow-origin
 "type": "FeatureCollection",
 "name": "FTZ Screenlines",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
